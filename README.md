@@ -24,6 +24,9 @@ The workbook contains:
 - **Amazon, Ajio, and Flipkart** are the leading sales channels by revenue.
 - Sales skew slightly higher among **male-attributed orders**, and the **young** age group accounts for the most orders.
 
+## Preview 
+![Dashboard Preview](dashboard-preview.png)
+
 ## How to use
 1. Download `Vrinda_Store_Analysis_report_.xlsx`
 2. Open in Excel
